@@ -1,0 +1,150 @@
+body {
+	background-color: white;
+	font-family:courier;
+}
+
+#firstC {
+	width:50%;
+	float:left;
+	margin-bottom:30px;
+}
+
+#secondC {
+	width:50%;
+	float:left;
+	margin-bottom:30px;
+}
+
+#main1 {
+	text-align:justify;
+	background-image:url(img/background.png);
+	background-size:100%;
+}
+
+#main2 {
+	width:98.8%;
+	float:left;
+	text-align:center;
+	background-color:silver;
+	background-size:100%;
+	margin-bottom:18px;
+	margin-right:0.6%;
+	margin-left:0.6%;
+	position:absolute;
+	bottom:0;
+	left:0;
+}
+
+#main3 {
+	width:100%;
+	float:left;
+	text-align:justify;
+	background-color:silver;
+	background-size:100%;
+	text-align:center;
+}
+
+#brake{
+	width:100%;
+	float:left;
+}
+
+#main {
+	text-align:justify;
+}
+
+#banner {
+	display:inline-block;
+	font-size:150%;
+	text-color:black;
+}
+
+#banner1 {
+	float:left;
+	width:27%;
+	font-size:80%;
+	text-align:center;
+	margin-left:2%
+}
+
+#ServiceInf{
+	float:left;
+	width:66%;
+	margin-left:3%;
+	margin-right:2%;
+	line-height:160%;
+}
+
+#EmployeesInf{
+	float:left;
+	width:95%;
+	margin-left:3%;
+	margin-right:2%;
+	line-height:160%;
+}
+
+#ClientsInf{
+	float:left;
+	width:95%;
+	margin-left:3%;
+	margin-right:2%;
+	line-height:160%;
+}
+
+#ClientsInf1{
+	float:left;
+	width:95%;
+	margin-left:2%;
+	margin-right:2%;
+	line-height:170%;
+}
+
+#bigline{
+	background-color:#00CCAB;
+	background-size:100%;
+}
+
+#block {
+	width:35%;
+	height:100%;
+	padding-right:5%;
+	margin-left:5%;
+	margin-top:20px;
+	float:left;
+	border:1px solid black;
+}
+
+
+#comp{
+	float:right;
+	line-height:3;
+}
+
+#image1{
+	margin-left:5%;
+	float:left;
+	width:30%;
+}
+
+#text1{
+	margin-top:8%;
+	float:left;
+	width:65%;
+}
+
+#photo{
+	width:20%;
+	height:300px;
+	border:1px solid black;
+	float:left;
+}
+
+#achievements{
+	width:65%;
+	float:left;
+}
+
+#name{
+	width:100%;
+	float:left;
+}
